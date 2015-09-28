@@ -1,4 +1,3 @@
---SQL TEMP CODE
 
 ALTER TABLE books ALTER subject_id DROP NOT NULL;
 
@@ -8,3 +7,6 @@ ALTER TABLE books ALTER subject_id DROP NOT NULL;
 -- ALTER TABLE table ADD CONSTRAINT contraint_namn FOREIGN KEY (main_table_attribute) REFERENCES other_table(other_table_attribute);
 
 -- PRIMARY KEY title, year (måste läggas sist om den innehåller två attribut)
+
+
+BAHAHHAHAHHAHA
